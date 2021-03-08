@@ -19,15 +19,13 @@
 - from Einstein: Spooky Actioon at Distance (not faster than the speed of light)
 
 ### Classical vs quantum
-Classical
-$$
+*Classical*
+```
 2 * n_(bits) 
-$$
-
-Quantum
-```
-$2^n_(qbits)$
-$$ 2^n_(qbits) $$
 ```
 
-\(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+*Quantum*
+```
+2^n_(qbits) 
+```
+

@@ -23,7 +23,8 @@ Classical
 $$
 2 * n_(bits) 
 $$
+
 Quantum
-$$
-2^n_(qbits) 
-$$
+```
+$$ 2^n_(qbits) $$
+```

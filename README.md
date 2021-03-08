@@ -28,4 +28,6 @@
 ```
 2^n_(qbits) 
 ```
-
+## Resources
+- Writing test code in Jupyter Lab 
+- Testing on IBM Quantum Computing platform

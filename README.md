@@ -18,13 +18,13 @@
 - if 2 qbits are entangled, a change in 1 qubit cause a change in another qbit (instantaneously) 
 - from Einstein: Spooky Actioon at Distance (not faster than the speed of light)
 
-### Classical vs quantum'
+### Classical vs quantum
 Classical
-$$ 
+$$\begin{align} 
 2 * n_bits 
-$$
+$$\end{align}
 
 Quantum
-$$ 
+$$\begin{align}
 2^n_qbits 
-$$ 
+$$\end{align} 

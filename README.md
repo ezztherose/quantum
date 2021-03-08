@@ -20,11 +20,10 @@
 
 ### Classical vs quantum
 Classical
-$$\begin{align} 
-2 * n_bits 
-$$\end{align}
-
+$$
+2 * n_(bits) 
+$$
 Quantum
-$$\begin{align}
-2^n_qbits 
-$$\end{align} 
+$$
+2^n_(qbits) 
+$$

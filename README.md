@@ -26,5 +26,6 @@ $$
 
 Quantum
 ```
+$2^n_(qbits)$
 $$ 2^n_(qbits) $$
 ```
